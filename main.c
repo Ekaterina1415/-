@@ -10,6 +10,7 @@ int main(int argc, char const *argv[])
 	// printf("Res: %d\n", x);
 	// return 0;
 	printf("Hello!");
+	printf("World");
 }
 int sum(int x int c)
 {
